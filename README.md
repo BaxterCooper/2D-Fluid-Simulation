@@ -4,7 +4,7 @@ A 2D fluid simulation inspired by Jos Stam's paper [Real-Time Fluid Dynamics for
 
 For an inspirational video on the physics and concepts used in this simulation please watch Gonkee's [But How DO Fluid Simulations Work?](https://www.youtube.com/watch?v=qsYE1wMEMPA) video.
 
-![](demos/2D-Fluid-Simulation-Demo.gif)
+![](2D-Fluid-Simulation-Demo.gif)
 
 ## Compilation
 ```bash
