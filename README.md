@@ -22,7 +22,7 @@ make
 
 ### Linux
 ```bash
-g++ -c main.cpp && g++ main.o -o program-name-here -lsfml-graphics -lsfml-window -lsfml-system
+g++ -c main.cpp && g++ main.o -o main -lsfml-graphics -lsfml-window -lsfml-system
 ```
 
 ## Execution
