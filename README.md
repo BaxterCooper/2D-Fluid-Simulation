@@ -6,9 +6,23 @@ For an inspirational video on the physics and concepts used in this simulation p
 
 ![](2D-Fluid-Simulation-Demo.gif)
 
+## Prerequisites 
+
+### Install SFML
+```bash
+sudo apt-get install libsfml-dev
+```
+
 ## Compilation
+
+### Windows
 ```bash
 make
+```
+
+### Linux
+```bash
+g++ -c main.cpp && g++ main.o -o program-name-here -lsfml-graphics -lsfml-window -lsfml-system
 ```
 
 ## Execution
